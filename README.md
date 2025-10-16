@@ -74,6 +74,7 @@ OneNav Free 是基于落幕的OneNav Extend的免费版，拓展并修复了部�
 ## 安装说明
 
 - **安装说明：** [https://gitee.com/tznb/OneNav/wikis](https://gitee.com/tznb/OneNav/wikis)
+
 注意：该为原作者落幕的安装说明，该版本已被弃用，原作者已开启新版本[TwoNav: TwoNav ](https://gitee.com/tznb/TwoNav)，感兴趣可以看看。
 
 
