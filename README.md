@@ -71,7 +71,7 @@ OneNav Free 是基于落幕的OneNav Extend的免费版，拓展并修复了部�
 
 ## 项目地址
 
-- **GitHub：** [https://github.com/hikwin/OneNav-Free](https://github.com/hikwin/OneNav-Free)
+- **GitHub：** [https://github.com/hikwin/OneNavExtend-Free](https://github.com/hikwin/OneNavExtend-Free)
 
 ## 技术支持
 

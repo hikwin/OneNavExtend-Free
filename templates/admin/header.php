@@ -50,7 +50,7 @@
         <a href="javascript:;"><img src="./templates/admin/static/touxiang.jpg" class="layui-nav-img"><?php echo $u; ?></a>
         <dl class="layui-nav-child">
           <dd><a href="./index.php?c=admin&page=logout&u=<?php echo $u?>"><i class="layui-icon layui-icon-return"></i> 退出登录</a></dd>
-          <dd><a href="https://github.com/hikwin/OneNav-Free" target="_blank"><i class="layui-icon layui-icon-star"></i> 查看仓库</a></dd>
+          <dd><a href="https://github.com/hikwin/OneNavExtend-Free" target="_blank"><i class="layui-icon layui-icon-star"></i> 查看仓库</a></dd>
           <dd><a href="https://gitee.com/tznb/OneNav/wikis/" target="_blank"><i class="layui-icon layui-icon-note"></i> 帮助文档</a></dd>
         </dl>
       </li>
